@@ -5,4 +5,4 @@
 Запуск через KUAL:Обложка KUAL/KOL
 
 thumbnail_kol_portrait.jpg - обложка для KOL
-thumbnail_kual_portrait - обложка для KUAL
+thumbnail_kual_portrait.jpg - обложка для KUAL
