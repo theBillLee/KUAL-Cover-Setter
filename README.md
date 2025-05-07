@@ -1,8 +1,8 @@
 # KUAL-Cover-Setter
-Простое расширение для KUAL которое устанавливает обложку для KUAL в библиотеке.
+A simple extension for KUAL that sets a cover for KUAL in the library.
 
-Установка:положить папку coversetter в extensions
-Запуск через KUAL:Обложка KUAL/KOL
+Installation: place the coversetter folder in extensions
+Launch through KUAL: KUAL/KOL Cover
 
-thumbnail_kol_portrait.jpg - обложка для KOL
-thumbnail_kual_portrait.jpg - обложка для KUAL
+thumbnail_kol_portrait.jpg - cover for KOL
+thumbnail_kual_portrait.jpg - cover for KUAL
